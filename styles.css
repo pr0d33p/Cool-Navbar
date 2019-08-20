@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poiret One;
+}
+
+nav{
+  height: 100vh;
+  left: 0;
+  position: fixed;
+  background: #dedede;
+  width: 20vw;
+  box-shadow:#c2bbbb 4.5px 5px 7.5px 0px;
+}
+
+li{
+  padding: 2em;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5em;
+  color: black;
+}
+
+.logo {
+  width: 13vw;
+  filter: brightness(0.2);
+}
