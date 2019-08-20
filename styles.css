@@ -27,3 +27,7 @@ a {
   width: 13vw;
   filter: brightness(0.2);
 }
+
+a:hover {
+ border-bottom: 1px solid #453886;
+}
